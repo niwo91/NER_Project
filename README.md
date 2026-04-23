@@ -29,8 +29,8 @@ jupyter notebook NLP_Project.ipynb
 
 Once the notebook starts, go the "kernel" menu and choose "change kernel". Select the "venv" kernel you just created to run this notebook in the virtual environment.
 
-#### Running the code locally
-If you choose to run the code locally, please install all the python modules listed in "requirements.txt"
+#### Running the code locally without a virtual environment
+If you choose to run the code locally, please install all the python modules listed in "requirements.txt". You should also have python3 and Jupyuter Notebook downloaded on your local environment.
 
 ##### A Note on pytorch
 If you have an issue with pytorch, installation instructions can be found [here](https://pytorch.org/get-started/locally/). 
