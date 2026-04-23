@@ -15,7 +15,7 @@ This repository holds the code for my Named Entity Recognition project for CSPB3
 ## Running the code
 
 #### Suggested Method
-The code itself runs succesfully in [Google's Colab servers](https://colab.research.google.com/). As noted in the notebook, you may need to configure your notebook with a user access token from huggingface. If needed, a link to huggingface's instructions can be found in the notebook.
+The code itself runs succesfully in [Google's Colab servers](https://colab.research.google.com/). The suggested method is to upload this notebook and run it in Google's CoLab. As noted in the notebook, you may need to configure your notebook with a user access token from huggingface. If needed, a link to huggingface's instructions can be found in the notebook.
 
 #### Running the code in a virtual environment
 If you choose to run this notebook on a virtual environment follow these instructions in a bash (or bash compatible) terminal. Be sure to have python3 and Jupyter Notebook installed on your machine and move the requirements.txt and NLP_Project.ipynb files in this repository to your virtual environment.
