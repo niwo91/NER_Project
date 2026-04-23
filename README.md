@@ -8,6 +8,8 @@
 This repository holds the code for my Named Entity Recognition project for CSPB3832 for Spring 2026. The code and comments are contained in the attached Jupyter Notebook.
 
 ### Running the code
+
+#### Suggested Method
 The code itself runs succesfully in [Google's Colab servers](https://colab.research.google.com/). As noted in the notebook, you may need to configure your notebook with a user access token from huggingface. If needed, a link to huggingface's instructions can be found in the notebook.
 
 #### Running the code in a virtual environment
